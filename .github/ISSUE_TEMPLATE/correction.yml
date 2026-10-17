@@ -1,0 +1,63 @@
+name: "Correction"
+description: "A factual, date, citation or mapping error anywhere in ADSRA."
+title: "[Correction] "
+labels: ["peer-review", "correction"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this for an error outside the five open questions — a wrong date, a misread instrument, a broken mapping or reference.
+        This issue is **public**. To contribute privately, use the Contribute section of the Assure Govern website instead.
+  - type: textarea
+    id: says
+    attributes:
+      label: What ADSRA says now
+      description: Quote or paraphrase the text, figure or mapping.
+    validations:
+      required: true
+  - type: textarea
+    id: should
+    attributes:
+      label: What it should say
+    validations:
+      required: true
+  - type: input
+    id: location
+    attributes:
+      label: Where in ADSRA
+      description: Document and section, slide, pillar or control ID (for example "Tech Ref §6.3" or "ADSRA-CR-03").
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence
+      description: Primary sources (regulator, legislation, provider documentation) and the date you checked each one. Anecdote helps; evidence decides.
+    validations:
+      required: true
+  - type: input
+    id: sector
+    attributes:
+      label: Your sector
+      description: Banking, FS & super, retail, healthcare, utilities, education, cross-industry, other.
+  - type: textarea
+    id: interests
+    attributes:
+      label: Interests to declare
+      description: Do you work for, or sell, a product this point concerns? It does not disqualify the point.
+  - type: dropdown
+    id: credit
+    attributes:
+      label: Credit
+      options:
+        - Credit me by my GitHub name
+        - Do not credit me by name
+    validations:
+      required: true
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Contribution terms
+      options:
+        - label: I have read CONTRIBUTING.md, including the open legal item on contributor terms (draft, not yet in effect).
+          required: true

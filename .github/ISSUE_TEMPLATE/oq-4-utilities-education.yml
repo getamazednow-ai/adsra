@@ -1,0 +1,69 @@
+name: "OQ-4 · Utilities and education blueprints"
+description: "Correct or extend the drafted utilities and education blueprints (Technical Reference §10.5–10.6)."
+title: "[OQ-4] "
+labels: ["peer-review", "OQ-4"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **OQ-4 — Utilities and education blueprints.** Correct or extend the drafted utilities and education blueprints (Technical Reference §10.5–10.6).
+        Sectors most wanted: Utilities, education. This issue is **public**. To contribute privately, use the Contribute section of the Assure Govern website instead.
+  - type: dropdown
+    id: type
+    attributes:
+      label: Type
+      options:
+        - Challenge (disputes a position or claim)
+        - Correction (factual, date or mapping error)
+        - Addition (new content)
+        - Clarification (wording or ambiguity)
+        - Endorsement
+    validations:
+      required: true
+  - type: input
+    id: location
+    attributes:
+      label: Where in ADSRA
+      description: Document and section, slide, pillar or control ID (for example "Tech Ref §6.3" or "ADSRA-CR-03").
+    validations:
+      required: true
+  - type: textarea
+    id: point
+    attributes:
+      label: Your point
+      description: Which part of the blueprint is wrong or missing, and how does your sector actually work?
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence
+      description: Primary sources (regulator, legislation, provider documentation) and the date you checked each one. Anecdote helps; evidence decides.
+    validations:
+      required: true
+  - type: input
+    id: sector
+    attributes:
+      label: Your sector
+      description: Banking, FS & super, retail, healthcare, utilities, education, cross-industry, other.
+  - type: textarea
+    id: interests
+    attributes:
+      label: Interests to declare
+      description: Do you work for, or sell, a product this point concerns? It does not disqualify the point.
+  - type: dropdown
+    id: credit
+    attributes:
+      label: Credit
+      options:
+        - Credit me by my GitHub name
+        - Do not credit me by name
+    validations:
+      required: true
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Contribution terms
+      options:
+        - label: I have read CONTRIBUTING.md, including the open legal item on contributor terms (draft, not yet in effect).
+          required: true
