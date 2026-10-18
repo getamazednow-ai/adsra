@@ -12,7 +12,9 @@ It is published as a draft **so it can be argued with**. Please break it.
 
 | Folder | Contents |
 |---|---|
-| `docs/` | The v0.3 pack (PDF): Executive Briefing, Technical Reference and White Paper; the Article Series and the Five Open Questions (Markdown); and a consultation brief for each open question |
+| `docs/` | The v0.3 pack (PDF): Executive Briefing, Technical Reference and White Paper; and a consultation brief for each open question |
+
+The ADSRA article series is published on [Medium](https://medium.com/@duane.gomes).
 
 The Technical Reference is authoritative: control IDs, the indicative AWS / Azure / GCP mappings, the blueprints and the evidence register are all there.
 

@@ -1,0 +1,113 @@
+{
+  "repo": "getamazednow-ai/adsra",
+  "source": {
+    "repo": "assure-govern",
+    "sha": "b1bae859953cb3bdb52c88928b34773502934523",
+    "dirty": false
+  },
+  "generator": "ops/publish-adsra.js",
+  "generator_version": "1.0.0",
+  "built_at": "2026-10-18T08:51:27.208Z",
+  "files": [
+    {
+      "path": ".github/ISSUE_TEMPLATE/config.yml",
+      "sha256": "ffc690c43773691b35e7c5c24e3015c106f2102c5601a6d44e1b1e9164a7ef82",
+      "bytes": 284
+    },
+    {
+      "path": ".github/ISSUE_TEMPLATE/correction.yml",
+      "sha256": "63eeab0658553e747146f7304f494756cdac53efc4bfa308038100cd6db39613",
+      "bytes": 2093
+    },
+    {
+      "path": ".github/ISSUE_TEMPLATE/oq-1-tier-boundaries.yml",
+      "sha256": "22d0705943ec9fd8e15dbdb1fcb696a09166be536c770faa57675053b628cd22",
+      "bytes": 2449
+    },
+    {
+      "path": ".github/ISSUE_TEMPLATE/oq-2-hyok.yml",
+      "sha256": "0064c3db35cbd5b638d15c7a38e1c7cbbd53c89c64c792b429194ca18a8a0a9a",
+      "bytes": 2425
+    },
+    {
+      "path": ".github/ISSUE_TEMPLATE/oq-3-level-6-governance.yml",
+      "sha256": "a85d4aefcedd5536bf727f12ecb072326f372fef66be120e8be12b7a9cc8f282",
+      "bytes": 2461
+    },
+    {
+      "path": ".github/ISSUE_TEMPLATE/oq-4-utilities-education.yml",
+      "sha256": "5e5519e654fd9098ded39011e97d0fb8507b75fcf6f364cbea87d7526dffee3d",
+      "bytes": 2460
+    },
+    {
+      "path": ".github/ISSUE_TEMPLATE/oq-5-cloud-mappings.yml",
+      "sha256": "2f46cda61a9f7bf6d0c613882cd02ba44ddea9c73c6c42d2f6c0e26b625d9ce2",
+      "bytes": 2435
+    },
+    {
+      "path": ".gitignore",
+      "sha256": "a56845bdfeeea2fbade9a9b6f75b6451d46b1f938dfde843e8018a2ea422e5a4",
+      "bytes": 16
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "sha256": "d1570bb7f77c374ee1e63498cdd7e150c6b712e4c42d2f0df0bd94d970e36180",
+      "bytes": 4423
+    },
+    {
+      "path": "LICENSE",
+      "sha256": "41003d4a74749c0220e33dd415042164b5a1093ed401f36277234f772d22d3d0",
+      "bytes": 19347
+    },
+    {
+      "path": "README.md",
+      "sha256": "6ff89c77329cd035be82e01f1f9a8b0c27f3d2b62bf7a612d7cc44331cb2e38e",
+      "bytes": 2721
+    },
+    {
+      "path": "docs/ADSRA_Executive_Briefing_v0.3.pdf",
+      "sha256": "90b9788cdc99386c4a1d1f473a83aa604a5d62785dbe205227064906024fec92",
+      "bytes": 594917
+    },
+    {
+      "path": "docs/ADSRA_Technical_Reference_v0.3.pdf",
+      "sha256": "63c2ad982b82e6b1236a7e59c097fe586acf21eb7ce75e4928fcaebe99dc2c4e",
+      "bytes": 1150338
+    },
+    {
+      "path": "docs/ADSRA_White_Paper_v0.3.pdf",
+      "sha256": "ea250bc2bca12b0da16d69df9a7f163e766e2d894057f434b2c45ec8d044b435",
+      "bytes": 785988
+    },
+    {
+      "path": "docs/OQ Consultation Briefs/ADSRA_Five_Open_Questions_Consultation_Pack.pdf",
+      "sha256": "a1b8618b3bdd1201d979d0a11670d2104d904ad4ab23c32ea95d0acb1ae29709",
+      "bytes": 328989
+    },
+    {
+      "path": "docs/OQ Consultation Briefs/ADSRA_OQ-1_Consultation_Brief.pdf",
+      "sha256": "84c649652d7a461ee549df8eee548d02bc001ddbf468a030c7e07be27963eccc",
+      "bytes": 259991
+    },
+    {
+      "path": "docs/OQ Consultation Briefs/ADSRA_OQ-2_Consultation_Brief.pdf",
+      "sha256": "438ca10d2771433de78beef7f7a47b36b35fef6b9118eb9fff872a76a55e0329",
+      "bytes": 259293
+    },
+    {
+      "path": "docs/OQ Consultation Briefs/ADSRA_OQ-3_Consultation_Brief.pdf",
+      "sha256": "35454f985ebf0f5b77221aa98d244bf6937f2c8b8b38ab3ad248217304f20a36",
+      "bytes": 265158
+    },
+    {
+      "path": "docs/OQ Consultation Briefs/ADSRA_OQ-4_Consultation_Brief.pdf",
+      "sha256": "f1fc40f818697830dcf96e86821e9afa0b8015be611b0aa861988757fb9491f2",
+      "bytes": 261488
+    },
+    {
+      "path": "docs/OQ Consultation Briefs/ADSRA_OQ-5_Consultation_Brief.pdf",
+      "sha256": "747ee72eff1ce786168b88e31f2e6be34424dcaa0314bcf6880885a948d57803",
+      "bytes": 259592
+    }
+  ]
+}
