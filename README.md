@@ -10,13 +10,18 @@ It is published as a draft **so it can be argued with**. Please break it.
 
 ## What is in this repository
 
-| Folder | Contents |
+All documents are PDF.
+
+| Path | Contents |
 |---|---|
-| `docs/` | The v0.3 pack (PDF): Executive Briefing, Technical Reference and White Paper; and a consultation brief for each open question |
+| `docs/ADSRA_Executive_Briefing_v0.3.pdf` | Executive Briefing |
+| `docs/ADSRA_Technical_Reference_v0.3.pdf` | Technical Reference — authoritative: control IDs, the indicative AWS / Azure / GCP mappings, the blueprints and the evidence register (§12) |
+| `docs/ADSRA_White_Paper_v0.3.pdf` | White Paper |
+| `docs/OQ Consultation Briefs/` | The Five Open Questions Consultation Pack, and a consultation brief for each open question (OQ-1 to OQ-5) |
+| `.github/ISSUE_TEMPLATE/` | An issue form for each open question, and one for corrections |
+| `RELEASE.json` | What this release contains: the source version and a SHA-256 checksum for each file |
 
 The ADSRA article series is published on [Medium](https://medium.com/@duane.gomes).
-
-The Technical Reference is authoritative: control IDs, the indicative AWS / Azure / GCP mappings, the blueprints and the evidence register are all there.
 
 ## The five open questions
 
@@ -39,7 +44,7 @@ Prefer to contribute privately? Use the Contribute section of the Assure Govern 
 
 This is a **published copy**. The master is maintained privately by Getamazednow AI, and each
 release is copied here. Accepted contributions are applied to the master through the ADSRA Change
-Register and arrive here in the next release. You are told the outcome and credited.
+Register and arrive here in the next release. You are told the outcome and credited. Each release is tagged, and `RELEASE.json` lists every file it contains with a checksum, so you can check that a copy is unaltered.
 
 ## Licence
 

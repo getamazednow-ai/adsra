@@ -2,12 +2,12 @@
   "repo": "getamazednow-ai/adsra",
   "source": {
     "repo": "assure-govern",
-    "sha": "b1bae859953cb3bdb52c88928b34773502934523",
+    "sha": "a182544f9451421cb12dc8baf951ff5239e97f97",
     "dirty": false
   },
   "generator": "ops/publish-adsra.js",
   "generator_version": "1.0.0",
-  "built_at": "2026-10-18T08:51:27.208Z",
+  "built_at": "2026-10-18T09:07:32.732Z",
   "files": [
     {
       "path": ".github/ISSUE_TEMPLATE/config.yml",
@@ -61,8 +61,8 @@
     },
     {
       "path": "README.md",
-      "sha256": "6ff89c77329cd035be82e01f1f9a8b0c27f3d2b62bf7a612d7cc44331cb2e38e",
-      "bytes": 2721
+      "sha256": "742a3c9c7d4a88cc17ff331970de51d4d52d5d98db4295818a899efa71fe2125",
+      "bytes": 3231
     },
     {
       "path": "docs/ADSRA_Executive_Briefing_v0.3.pdf",
