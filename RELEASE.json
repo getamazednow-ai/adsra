@@ -2,12 +2,12 @@
   "repo": "getamazednow-ai/adsra",
   "source": {
     "repo": "assure-govern",
-    "sha": "a182544f9451421cb12dc8baf951ff5239e97f97",
+    "sha": "1c5b80e5f919cf080899486f25fead0a5d09e5f9",
     "dirty": false
   },
   "generator": "ops/publish-adsra.js",
   "generator_version": "1.0.0",
-  "built_at": "2026-10-18T09:07:32.732Z",
+  "built_at": "2026-10-25T11:39:49.091Z",
   "files": [
     {
       "path": ".github/ISSUE_TEMPLATE/config.yml",
@@ -66,48 +66,48 @@
     },
     {
       "path": "docs/ADSRA_Executive_Briefing_v0.3.pdf",
-      "sha256": "90b9788cdc99386c4a1d1f473a83aa604a5d62785dbe205227064906024fec92",
-      "bytes": 594917
+      "sha256": "212eafeff9c2145d78ffae30f0e3c03c250d66d33d83590a55a6fd117025b082",
+      "bytes": 941261
     },
     {
       "path": "docs/ADSRA_Technical_Reference_v0.3.pdf",
-      "sha256": "63c2ad982b82e6b1236a7e59c097fe586acf21eb7ce75e4928fcaebe99dc2c4e",
-      "bytes": 1150338
+      "sha256": "eaae2877520f95ec723f279960c050c69f532fa274179c1f0573d44fd27c1eed",
+      "bytes": 4217285
     },
     {
       "path": "docs/ADSRA_White_Paper_v0.3.pdf",
-      "sha256": "ea250bc2bca12b0da16d69df9a7f163e766e2d894057f434b2c45ec8d044b435",
-      "bytes": 785988
+      "sha256": "6d7ea8ecccfb422b18a0669669066305d224b51cde06f783638bf646af3adb0a",
+      "bytes": 3493277
     },
     {
       "path": "docs/OQ Consultation Briefs/ADSRA_Five_Open_Questions_Consultation_Pack.pdf",
-      "sha256": "a1b8618b3bdd1201d979d0a11670d2104d904ad4ab23c32ea95d0acb1ae29709",
-      "bytes": 328989
+      "sha256": "42b782b4771ae9da9415105f8e5f239d8a46ae187afd6c81560a363bd33a3dbd",
+      "bytes": 615904
     },
     {
       "path": "docs/OQ Consultation Briefs/ADSRA_OQ-1_Consultation_Brief.pdf",
-      "sha256": "84c649652d7a461ee549df8eee548d02bc001ddbf468a030c7e07be27963eccc",
-      "bytes": 259991
+      "sha256": "b341bafda5e3fc136b43476eaaa464d78c6d4c6363a0e24136358515213986e2",
+      "bytes": 394914
     },
     {
       "path": "docs/OQ Consultation Briefs/ADSRA_OQ-2_Consultation_Brief.pdf",
-      "sha256": "438ca10d2771433de78beef7f7a47b36b35fef6b9118eb9fff872a76a55e0329",
-      "bytes": 259293
+      "sha256": "053e2cb90b375737173625a93f3796551da2d47a73793642b303a5dbb686593f",
+      "bytes": 374300
     },
     {
       "path": "docs/OQ Consultation Briefs/ADSRA_OQ-3_Consultation_Brief.pdf",
-      "sha256": "35454f985ebf0f5b77221aa98d244bf6937f2c8b8b38ab3ad248217304f20a36",
-      "bytes": 265158
+      "sha256": "ec5499b10abf567f7d57b210796871f467cf1a8f3362145317467b1c241ddace",
+      "bytes": 374001
     },
     {
       "path": "docs/OQ Consultation Briefs/ADSRA_OQ-4_Consultation_Brief.pdf",
-      "sha256": "f1fc40f818697830dcf96e86821e9afa0b8015be611b0aa861988757fb9491f2",
-      "bytes": 261488
+      "sha256": "959e6a4d390f79affc117b2a07010d814d8365ee098590a06dd41177bd6ac322",
+      "bytes": 373585
     },
     {
       "path": "docs/OQ Consultation Briefs/ADSRA_OQ-5_Consultation_Brief.pdf",
-      "sha256": "747ee72eff1ce786168b88e31f2e6be34424dcaa0314bcf6880885a948d57803",
-      "bytes": 259592
+      "sha256": "962243311b49770d22971725228218d9d65d74d05f4cd4524cc3d139cb963896",
+      "bytes": 373910
     }
   ]
 }
