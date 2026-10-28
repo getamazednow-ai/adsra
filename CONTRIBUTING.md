@@ -31,6 +31,11 @@ Corrections anywhere else — a wrong date, a broken mapping, a misread instrume
 Either way, include: the open question, pillar or control ID; your point; your evidence; your
 sector; and whether you are happy to be credited by name.
 
+Never post client information, personal data, credentials or confidential workload details in a
+public issue. If something sensitive has been posted, or you find a security problem, report it
+privately as set out in [SECURITY.md](SECURITY.md). Everyone taking part follows the
+[Code of Conduct](CODE_OF_CONDUCT.md).
+
 ## What happens to a submission
 
 1. **Logged.** Recorded as received, with a `PRL-nnn` ID, in the ADSRA Peer-Review Response Log. Nothing is pre-filtered.
@@ -45,6 +50,23 @@ This repository is a published copy of a privately maintained master: the docume
 releases, not working files. Accepted contributions are applied to the master and arrive here in
 the next release, so please raise them as issues — including corrections to the cloud mappings
 (OQ-5). You are credited, and the issue is closed with a note naming the change that carried it.
+
+## Where your submission stands
+
+Each issue carries a label showing where it is in the process above. You will be acknowledged
+within **10 business days**.
+
+| Label | Meaning | Disposition (step 4) |
+|---|---|---|
+| `received` | Logged; not yet reviewed (step 1) | — |
+| `under-review` | Being triaged and evidence-checked (steps 2–3) | — |
+| `needs-evidence` | Cannot be decided on the evidence given; please add sources | Needs evidence |
+| `accepted` | The change will be made | Accepted, or accepted with modification |
+| `deferred` | Valid, but held for a later version | Deferred |
+| `rejected` | Not taken forward | Rejected |
+
+Issues are closed with the disposition and the reason and, when a change was made, a link to the
+release tag that carries it.
 
 ## Licensing and recognition
 

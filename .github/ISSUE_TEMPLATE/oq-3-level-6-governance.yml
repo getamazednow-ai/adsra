@@ -1,13 +1,16 @@
 name: "OQ-3 · Level 6 governance"
 description: "What evidence would convince a regulator that agentic (Level 6) remediation is itself well governed?"
 title: "[OQ-3] "
-labels: ["peer-review", "OQ-3"]
+labels: ["peer-review", "OQ-3", "received"]
 body:
   - type: markdown
     attributes:
       value: |
         **OQ-3 — Level 6 governance.** What evidence would convince a regulator that agentic (Level 6) remediation is itself well governed?
-        Sectors most wanted: Risk / regulatory, banking. This issue is **public**. To contribute privately, use the Contribute section of the Assure Govern website instead.
+        Sectors most wanted: Risk / regulatory, banking.
+        **This issue is public and permanent.** Anyone can read it, and editing or deleting it later may not remove it from notifications, caches or copies.
+        **Do not include client information, personal data, credentials or confidential workload details.** Describe the point in general terms.
+        To contribute privately, use the Contribute section of the Assure Govern website. If something sensitive has already been posted, report it privately — see SECURITY.md.
   - type: dropdown
     id: type
     attributes:
@@ -66,4 +69,6 @@ body:
       label: Contribution terms
       options:
         - label: I have read CONTRIBUTING.md, including the open legal item on contributor terms (draft, not yet in effect).
+          required: true
+        - label: I have not included client information, personal data, credentials or confidential workload details.
           required: true

@@ -1,13 +1,15 @@
 name: "Correction"
 description: "A factual, date, citation or mapping error anywhere in ADSRA."
 title: "[Correction] "
-labels: ["peer-review", "correction"]
+labels: ["peer-review", "correction", "received"]
 body:
   - type: markdown
     attributes:
       value: |
         Use this for an error outside the five open questions — a wrong date, a misread instrument, a broken mapping or reference.
-        This issue is **public**. To contribute privately, use the Contribute section of the Assure Govern website instead.
+        **This issue is public and permanent.** Anyone can read it, and editing or deleting it later may not remove it from notifications, caches or copies.
+        **Do not include client information, personal data, credentials or confidential workload details.** Describe the point in general terms.
+        To contribute privately, use the Contribute section of the Assure Govern website. If something sensitive has already been posted, report it privately — see SECURITY.md.
   - type: textarea
     id: says
     attributes:
@@ -60,4 +62,6 @@ body:
       label: Contribution terms
       options:
         - label: I have read CONTRIBUTING.md, including the open legal item on contributor terms (draft, not yet in effect).
+          required: true
+        - label: I have not included client information, personal data, credentials or confidential workload details.
           required: true

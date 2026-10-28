@@ -3,3 +3,6 @@ contact_links:
   - name: Contribute privately
     url: https://govern.getamazednow.ai/#contribute
     about: Prefer not to post in public? Use the Contribute section of the Assure Govern website. Private submissions are not published without your consent.
+  - name: Report a security issue or accidental disclosure
+    url: https://github.com/getamazednow-ai/adsra/security/advisories/new
+    about: Exposed credentials, personal or confidential data posted by mistake, suspected tampering, or a checksum or tag that does not match its release. Reported privately — see SECURITY.md.

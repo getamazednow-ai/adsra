@@ -2,47 +2,47 @@
   "repo": "getamazednow-ai/adsra",
   "source": {
     "repo": "assure-govern",
-    "sha": "1c5b80e5f919cf080899486f25fead0a5d09e5f9",
+    "sha": "8e0543d057fad7369770a8ccb85f280dc03cf9fc",
     "dirty": false
   },
   "generator": "ops/publish-adsra.js",
   "generator_version": "1.0.0",
-  "built_at": "2026-10-25T11:39:49.091Z",
+  "built_at": "2026-10-28T11:32:10.111Z",
   "files": [
     {
       "path": ".github/ISSUE_TEMPLATE/config.yml",
-      "sha256": "ffc690c43773691b35e7c5c24e3015c106f2102c5601a6d44e1b1e9164a7ef82",
-      "bytes": 284
+      "sha256": "3978ef78f000246ac1ce9ddb5add2f4a28e15e99f5cf386efcda26d128c3decb",
+      "bytes": 613
     },
     {
       "path": ".github/ISSUE_TEMPLATE/correction.yml",
-      "sha256": "63eeab0658553e747146f7304f494756cdac53efc4bfa308038100cd6db39613",
-      "bytes": 2093
+      "sha256": "f25861a1ae2ca21f751138275663688406770af97963f80dd106ecbaba6ba8a0",
+      "bytes": 2605
     },
     {
       "path": ".github/ISSUE_TEMPLATE/oq-1-tier-boundaries.yml",
-      "sha256": "22d0705943ec9fd8e15dbdb1fcb696a09166be536c770faa57675053b628cd22",
-      "bytes": 2449
+      "sha256": "6331086e31a34d3ee8ab4aff9a492ab56efc3131c4180fec3edc3b3afcf0bd40",
+      "bytes": 2969
     },
     {
       "path": ".github/ISSUE_TEMPLATE/oq-2-hyok.yml",
-      "sha256": "0064c3db35cbd5b638d15c7a38e1c7cbbd53c89c64c792b429194ca18a8a0a9a",
-      "bytes": 2425
+      "sha256": "ab31c14f251bbacd5aea13d444f448fe83d857440a3c3a6ac46d583205ee63a3",
+      "bytes": 2945
     },
     {
       "path": ".github/ISSUE_TEMPLATE/oq-3-level-6-governance.yml",
-      "sha256": "a85d4aefcedd5536bf727f12ecb072326f372fef66be120e8be12b7a9cc8f282",
-      "bytes": 2461
+      "sha256": "ff848fb72e37f7edc2f00d6515cec24f89b713790761633842fdc780d5d9bd82",
+      "bytes": 2981
     },
     {
       "path": ".github/ISSUE_TEMPLATE/oq-4-utilities-education.yml",
-      "sha256": "5e5519e654fd9098ded39011e97d0fb8507b75fcf6f364cbea87d7526dffee3d",
-      "bytes": 2460
+      "sha256": "d192e1c8fd7d689206eb5213adb71587df3d7160c226383e991452f2ab2a6022",
+      "bytes": 2980
     },
     {
       "path": ".github/ISSUE_TEMPLATE/oq-5-cloud-mappings.yml",
-      "sha256": "2f46cda61a9f7bf6d0c613882cd02ba44ddea9c73c6c42d2f6c0e26b625d9ce2",
-      "bytes": 2435
+      "sha256": "7950702f2d88fc223a4f5d32b026ffac38a2ace16cda951792c8465f4d29b5b8",
+      "bytes": 2955
     },
     {
       "path": ".gitignore",
@@ -50,9 +50,14 @@
       "bytes": 16
     },
     {
+      "path": "CODE_OF_CONDUCT.md",
+      "sha256": "d7419fcbc8990bb5e7c94e8d9f06021c4a165e906b5fb8a500c6003cf0bc3b0a",
+      "bytes": 5514
+    },
+    {
       "path": "CONTRIBUTING.md",
-      "sha256": "d1570bb7f77c374ee1e63498cdd7e150c6b712e4c42d2f0df0bd94d970e36180",
-      "bytes": 4423
+      "sha256": "7d37e75a0b8388afa8d080bc60baa8591555c7d407e11a50ef6a8f267c374876",
+      "bytes": 5508
     },
     {
       "path": "LICENSE",
@@ -63,6 +68,11 @@
       "path": "README.md",
       "sha256": "742a3c9c7d4a88cc17ff331970de51d4d52d5d98db4295818a899efa71fe2125",
       "bytes": 3231
+    },
+    {
+      "path": "SECURITY.md",
+      "sha256": "9448d70d4fe48d5bc169bdc43388c2fe66fcb0b849ddac88c94a9c5cf2462e52",
+      "bytes": 2532
     },
     {
       "path": "docs/ADSRA_Executive_Briefing_v0.3.pdf",
