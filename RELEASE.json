@@ -2,12 +2,12 @@
   "repo": "getamazednow-ai/adsra",
   "source": {
     "repo": "assure-govern",
-    "sha": "8e0543d057fad7369770a8ccb85f280dc03cf9fc",
+    "sha": "9792b434451db1f58d8d5a52b2b109ed420b4f2e",
     "dirty": false
   },
   "generator": "ops/publish-adsra.js",
-  "generator_version": "1.0.0",
-  "built_at": "2026-10-28T11:32:10.111Z",
+  "generator_version": "1.1.0",
+  "built_at": "2026-11-03T11:16:32.821Z",
   "files": [
     {
       "path": ".github/ISSUE_TEMPLATE/config.yml",
@@ -51,13 +51,13 @@
     },
     {
       "path": "CODE_OF_CONDUCT.md",
-      "sha256": "d7419fcbc8990bb5e7c94e8d9f06021c4a165e906b5fb8a500c6003cf0bc3b0a",
-      "bytes": 5514
+      "sha256": "ba2bf88ba6c318491bd9a96d95ac07f2a2024fab67515d53eedf72112e45e444",
+      "bytes": 5637
     },
     {
       "path": "CONTRIBUTING.md",
-      "sha256": "7d37e75a0b8388afa8d080bc60baa8591555c7d407e11a50ef6a8f267c374876",
-      "bytes": 5508
+      "sha256": "72680378153dac616619fcb24dea7cef3bb74745800e3a387aa08ae9b4b2baf4",
+      "bytes": 5642
     },
     {
       "path": "LICENSE",
@@ -66,13 +66,13 @@
     },
     {
       "path": "README.md",
-      "sha256": "742a3c9c7d4a88cc17ff331970de51d4d52d5d98db4295818a899efa71fe2125",
-      "bytes": 3231
+      "sha256": "bf580c43f79ec4cc23100fd88711c4a26f196cbe73e70efb82696010f52ef1f8",
+      "bytes": 3368
     },
     {
       "path": "SECURITY.md",
-      "sha256": "9448d70d4fe48d5bc169bdc43388c2fe66fcb0b849ddac88c94a9c5cf2462e52",
-      "bytes": 2532
+      "sha256": "96cc600118d11aa3af88e1c76978178f54e694f938edc104baef11bb1fe6e61d",
+      "bytes": 2632
     },
     {
       "path": "docs/ADSRA_Executive_Briefing_v0.3.pdf",

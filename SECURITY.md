@@ -51,3 +51,7 @@ against it.
 ## Conduct
 
 Behaviour in this repository is governed by the [Code of Conduct](CODE_OF_CONDUCT.md).
+
+---
+
+Getamazednow AI (A division of Getamazednow Pty Ltd) | ACN: 703 401 914 | ABN: 47 703 401 914

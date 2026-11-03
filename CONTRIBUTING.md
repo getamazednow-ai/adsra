@@ -80,10 +80,14 @@ ask otherwise.
 > cover that use, so contributors need to grant broader rights.
 >
 > **Intended grant (draft — requires legal review):** by submitting, you confirm the contribution
-> is your own or that you have the right to share it, and you grant Getamazednow AI a perpetual,
-> worldwide, royalty-free, non-exclusive licence to use, adapt and publish it — in the open ADSRA
-> framework under CC BY-NC 4.0, and in Getamazednow AI's commercial products and services. You keep
+> is your own or that you have the right to share it, and you grant Getamazednow Pty Ltd (trading as
+> Getamazednow AI) a perpetual, worldwide, royalty-free, non-exclusive licence to use, adapt and
+> publish it — in the open ADSRA framework under CC BY-NC 4.0, and in Getamazednow AI's commercial products and services. You keep
 > your copyright and your credit.
 >
 > *Until final terms are published, contributions are logged and reviewed, and are not used in a
 > commercial product until their contributor has accepted the final terms.*
+
+---
+
+Getamazednow AI (A division of Getamazednow Pty Ltd) | ACN: 703 401 914 | ABN: 47 703 401 914

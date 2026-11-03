@@ -42,14 +42,17 @@ Prefer to contribute privately? Use the Contribute section of the Assure Govern 
 
 ## How this repository is maintained
 
-This is a **published copy**. The master is maintained privately by Getamazednow AI, and each
+This is a **published copy**. The master is maintained privately by Getamazednow AI (A division of
+Getamazednow Pty Ltd), and each
 release is copied here. Accepted contributions are applied to the master through the ADSRA Change
 Register and arrive here in the next release. You are told the outcome and credited. Each release is tagged, and `RELEASE.json` lists every file it contains with a checksum, so you can check that a copy is unaltered.
 
 ## Licence
 
-ADSRA © 2026 Getamazednow AI, licensed under
+ADSRA © 2026 Getamazednow Pty Ltd, licensed under
 [Creative Commons Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/)
 (CC BY-NC 4.0). See [LICENSE](LICENSE).
+
+Getamazednow AI (A division of Getamazednow Pty Ltd) | ACN: 703 401 914 | ABN: 47 703 401 914
 
 Contribution terms are being finalised — see CONTRIBUTING.md.
